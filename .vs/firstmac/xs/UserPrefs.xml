@@ -5,12 +5,18 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstmac/Program.cs">
+    <Files>
+      <File FileName="firstmac/Program.cs" Line="19" Column="15" />
+      <File FileName="firstmac/appsettings.json" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="firstmac" expanded="True">
-            <Node name="firstmac" expanded="True" />
+            <Node name="firstmac" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
