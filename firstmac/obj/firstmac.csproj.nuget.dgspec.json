@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Projects/firstmac/firstmac/firstmac.csproj": {}
+    "/Users/Bombay/Projects/firstmac/firstmac/firstmac.csproj": {}
   },
   "projects": {
-    "/Users/mac/Projects/firstmac/firstmac/firstmac.csproj": {
+    "/Users/Bombay/Projects/firstmac/firstmac/firstmac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Projects/firstmac/firstmac/firstmac.csproj",
+        "projectUniqueName": "/Users/Bombay/Projects/firstmac/firstmac/firstmac.csproj",
         "projectName": "firstmac",
-        "projectPath": "/Users/mac/Projects/firstmac/firstmac/firstmac.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Projects/firstmac/firstmac/obj/",
+        "projectPath": "/Users/Bombay/Projects/firstmac/firstmac/firstmac.csproj",
+        "packagesPath": "/Users/Bombay/.nuget/packages/",
+        "outputPath": "/Users/Bombay/Projects/firstmac/firstmac/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "/Users/Bombay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
